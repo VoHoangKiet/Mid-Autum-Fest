@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mid-Autum-Fest/static/css/main.5fd774f2.css",
+    "main.js": "/Mid-Autum-Fest/static/js/main.41e1cca3.js",
+    "static/js/453.82650b8e.chunk.js": "/Mid-Autum-Fest/static/js/453.82650b8e.chunk.js",
+    "static/media/mid-autumn-festival-background.jpg": "/Mid-Autum-Fest/static/media/mid-autumn-festival-background.92c988aac3c2920447dd.jpg",
+    "static/media/background_love.jpg": "/Mid-Autum-Fest/static/media/background_love.88545d8778a49b60277f.jpg",
+    "index.html": "/Mid-Autum-Fest/index.html",
+    "main.5fd774f2.css.map": "/Mid-Autum-Fest/static/css/main.5fd774f2.css.map",
+    "main.41e1cca3.js.map": "/Mid-Autum-Fest/static/js/main.41e1cca3.js.map",
+    "453.82650b8e.chunk.js.map": "/Mid-Autum-Fest/static/js/453.82650b8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd774f2.css",
+    "static/js/main.41e1cca3.js"
+  ]
+}
