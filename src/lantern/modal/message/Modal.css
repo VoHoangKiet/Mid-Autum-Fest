@@ -1,0 +1,35 @@
+  .modal-content {
+    background-image: url('../../../assets/img/mid-autumn-festival-background.jpg'); 
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+  }
+  h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  h1 {
+    color: #f9d923; /* Màu vàng nhạt */
+    font-family: 'Playwrite SK', cursive; /* Kiểu chữ thư pháp mềm mại */
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Đổ bóng để nổi bật trên nền */
+    margin-bottom: 20px; /* Tạo khoảng cách giữa tiêu đề và đoạn văn */
+}
+
+p {
+    color: #ffffff; /* Màu trắng */
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Đổ bóng đậm hơn để rõ ràng trên nền phức tạp */
+    line-height: 1.6; /* Tăng khoảng cách giữa các dòng chữ để dễ đọc hơn */
+    margin: 0 auto; /* Canh giữa đoạn văn */
+    max-width: 90%; /* Đảm bảo văn bản không quá rộng */
+    padding: 10px;
+    border-radius: 10px; /* Bo góc nhẹ cho đoạn văn */
+}
+
+  
